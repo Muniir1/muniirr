@@ -25,6 +25,11 @@ body {
 }
 .middle-container{
     margin: 100px 0;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+    
+    
 }
 .my-dt{
     width: 37%;
@@ -108,9 +113,9 @@ p{
     -webkit-border-radius: 8;
     -moz-border-radius: 8;
     border-radius: 8px;
-    -webkit-box-shadow: 0px 4px 5px #666666;
-    -moz-box-shadow: 0px 4px 5px #666666;
-    box-shadow: 0px 4px 5px #666666;
+    -webkit-box-shadow: 0px 4px 5px #000000;
+    -moz-box-shadow: 0px 4px 5px #000000;
+    box-shadow: 0px 4px 5px #000000;
     font-family: 'Montserrat', sans-serif;
     color: #ffffff;
     font-size: 25px;
